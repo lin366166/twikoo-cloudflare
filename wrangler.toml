@@ -10,7 +10,7 @@ database_name = "twikoo"
 database_id = "c31dc938-2a79-41e5-947d-ba7a2aa84dd9"
 
 [[r2_buckets]]
-binding = "R2"
+binding = "DB"
 bucket_name = "twikoo"
 
 [vars]
